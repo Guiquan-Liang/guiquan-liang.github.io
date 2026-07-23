@@ -31,6 +31,40 @@ On progress!
 
 # 📖 Educations
 - *2026.09 - present*, **South China University of Technology**, Computational Mathematics.
-
-Advisor: Prof. Xiaolan Liu
 - *2021.09 - 2025.06*, **B.S.,South China University of Technology**, Mathematics and Applied Mathematics.
+
+---
+
+# Appenix
+- Music that I Love:
+  1. Albumn **Atlas** by **FM-84**
+     Especially:
+     1. Running in the Night (feat. **Ollie Wride**)
+     2. Tears
+     3. Everything
+     4. Arcade Summer
+     5. Don't Want to Change Your Mind (feat. **Ollie Wride**)
+  2. Single **Bend & Break ** by **FM-84** (feat. **Ollie Wride**)
+  3. **Los Angeles EP** by **FM-84**
+     Especially:
+     1. Los Angeles
+     2. Mainframe
+     3. Max (Bonus Track)
+- Also:
+  1. Albumn **Thanks in Advanced** by **Ollie Wride**
+     Especially:
+     1. Back to Life
+     2. I'm a Believer
+     3. Luna
+  3. Albumn **Pressure Point** by **Ollie Wride**
+     Especially:
+     1. Victoria
+     2. Simpatico
+     3. Call Me Up
+- And all the music by **The American English**
+  Especially:
+  1. Shanghai
+  2. Tokyo
+  3. Year of the Snake
+  4. Velvet Lotus
+  5. 
