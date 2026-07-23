@@ -49,7 +49,7 @@ On progress!
     <img src="/images/sh.jpg" style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/tky.jpg" style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/yots.jpg"  style="width: 100%; height: auto; border-radius: 8px;">
-    <img src="/images/wo-radio.jpg" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/ow-radio.jpg" style="width: 100%; height: auto; border-radius: 8px;">
 </div>
 - Music that I Love:
   1. Album <a href='https://fm84.bandcamp.com/album/atlas'>**Atlas**</a> by **FM-84**
