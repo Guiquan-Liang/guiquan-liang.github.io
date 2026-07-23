@@ -42,7 +42,7 @@ On progress!
     <img src="/images/Bend & Break 2019.jpg"  style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/Maverick.jpg"  style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/LA.jpg" style="width: 100%; height: auto; border-radius: 8px;">
-    <img src="/images/fm84-adio.jpg" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/fm84-radio.jpg" style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/ow-thanks in advanced.jpg" style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/ow-pressure point.jpg" style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/wl.jpg"  style="width: 100%; height: auto; border-radius: 8px;">
