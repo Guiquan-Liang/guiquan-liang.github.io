@@ -37,6 +37,20 @@ On progress!
 
 
 # Appenix
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 20px 0;">
+    <img src="/images/你的图片1.jpg" alt="描述1" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片2.jpg" alt="描述2" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片3.jpg" alt="描述3" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片4.jpg" alt="描述4" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片5.jpg" alt="描述5" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片6.jpg" alt="描述6" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片7.jpg" alt="描述7" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片8.jpg" alt="描述8" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片9.jpg" alt="描述9" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片10.jpg" alt="描述10" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片11.jpg" alt="描述11" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/你的图片12.jpg" alt="描述12" style="width: 100%; height: auto; border-radius: 8px;">
+</div>
 - Music that I Love:
   1. Album <a href='https://fm84.bandcamp.com/album/atlas'>**Atlas**</a> by **FM-84**
      Especially:
@@ -46,12 +60,13 @@ On progress!
      4. Arcade Summer
      5. Don't Want to Change Your Mind (feat. **Ollie Wride**)
   2. Single <a href='https://fm84.bandcamp.com/album/bend-break-feat-ollie-wride'>**Bend & Break**</a> by **FM-84** (feat. **Ollie Wride**)
-  3. Album <a href='https://fm84.bandcamp.com/album/los-angeles-ep'>**Los Angeles EP**</a> by **FM-84**
+  3. Album <a href='https://fm84.bandcamp.com/album/maverick-atlas-b-sides'> **Maverick** </a> by **FM-84**
+  4. Album <a href='https://fm84.bandcamp.com/album/los-angeles-ep'>**Los Angeles EP**</a> by **FM-84**
      Especially:
      1. Los Angeles
      2. Mainframe
      3. Max (Bonus Track)
-  4. And newly released single <a href='https://fm84.bandcamp.com/album/radio'>**Radio**</a> (feat. **Josh Dally**)
+  5. And newly released single <a href='https://fm84.bandcamp.com/album/radio'>**Radio**</a> (feat. **Josh Dally**)
 - Also:
   1. Album <a href='https://olliewride.bandcamp.com/album/thanks-in-advance-2'>**Thanks in Advanced**</a> by **Ollie Wride**
      Especially:
@@ -63,9 +78,11 @@ On progress!
      1. Victoria
      2. Simpatico
      3. Call Me Up
+  3. **Wild Love** by **Timecop1983** feat. **Ollie Wride**
 - And all the music released by <a href='https://theamericanenglish.bandcamp.com/'>**The American English**</a>
   Especially:
   1. Shanghai
   2. Tokyo
   3. Year of the Snake
-  4. Velvet Lotus
+  4. Radio
+  5. Velvet Lotus
