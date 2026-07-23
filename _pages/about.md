@@ -35,6 +35,7 @@ On progress!
 
 ---
 
+
 # Appenix
 - Music that I Love:
   1. Albumn **Atlas** by **FM-84**
@@ -44,7 +45,7 @@ On progress!
      3. Everything
      4. Arcade Summer
      5. Don't Want to Change Your Mind (feat. **Ollie Wride**)
-  2. Single **Bend & Break ** by **FM-84** (feat. **Ollie Wride**)
+  2. Single **Bend & Break** by **FM-84** (feat. **Ollie Wride**)
   3. **Los Angeles EP** by **FM-84**
      Especially:
      1. Los Angeles
