@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Guiquan Liang, a third-year master's student in <a herf='https://www2.scut.edu.cn/math/'> School of Mathematics </a>, <a herf='https://scut.edu.cn'> South China University of Technology </a>.
+Hi! I'm Guiquan Liang, a third-year master's student in <a href='https://www2.scut.edu.cn/math/'> School of Mathematics </a>, <a href='https://scut.edu.cn'> South China University of Technology </a>.
 
 My research interest is deep incomplete multi-view clustering algoritms, especially in time series and Non-IID missing.
 # 🔥 News
@@ -38,34 +38,34 @@ On progress!
 
 # Appenix
 - Music that I Love:
-  1. Albumn **Atlas** by **FM-84**
+  1. Album <a href='https://fm84.bandcamp.com/album/atlas'>**Atlas**</a> by **FM-84**
      Especially:
      1. Running in the Night (feat. **Ollie Wride**)
      2. Tears
      3. Everything
      4. Arcade Summer
      5. Don't Want to Change Your Mind (feat. **Ollie Wride**)
-  2. Single **Bend & Break** by **FM-84** (feat. **Ollie Wride**)
-  3. **Los Angeles EP** by **FM-84**
+  2. Single <a href='https://fm84.bandcamp.com/album/bend-break-feat-ollie-wride'>**Bend & Break**</a> by **FM-84** (feat. **Ollie Wride**)
+  3. Album <a href='https://fm84.bandcamp.com/album/los-angeles-ep'>**Los Angeles EP**</a> by **FM-84**
      Especially:
      1. Los Angeles
      2. Mainframe
      3. Max (Bonus Track)
+  4. And newly released single <a href='https://fm84.bandcamp.com/album/radio'>**Radio**</a> (feat. **Josh Dally**)
 - Also:
-  1. Albumn **Thanks in Advanced** by **Ollie Wride**
+  1. Album <a href='https://olliewride.bandcamp.com/album/thanks-in-advance-2'>**Thanks in Advanced**</a> by **Ollie Wride**
      Especially:
      1. Back to Life
      2. I'm a Believer
      3. Luna
-  3. Albumn **Pressure Point** by **Ollie Wride**
+  2. Album **Pressure Point** by **Ollie Wride**
      Especially:
      1. Victoria
      2. Simpatico
      3. Call Me Up
-- And all the music by **The American English**
+- And all the music released by <a href='https://theamericanenglish.bandcamp.com/'>**The American English**</a>
   Especially:
   1. Shanghai
   2. Tokyo
   3. Year of the Snake
   4. Velvet Lotus
-  5. 
