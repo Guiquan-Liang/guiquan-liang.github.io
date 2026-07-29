@@ -36,7 +36,7 @@ On progress!
 ---
 
 
-# Appenix
+# 🎶 Appendix
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 20px 0;">
     <img src="/images/Atlas.jpg"  style="width: 100%; height: auto; border-radius: 8px;">
     <img src="/images/Bend & Break 2019.jpg"  style="width: 100%; height: auto; border-radius: 8px;">
